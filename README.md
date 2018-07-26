@@ -1,5 +1,4 @@
-# deltaNetworks-distributed
-Distributed Algorithms of Simulation for Delta Networks
+Distributed Algorithm for Simulation of Delta Networks
 
 A: Files for Distributed Method
    1. master file    --- 762m.c
